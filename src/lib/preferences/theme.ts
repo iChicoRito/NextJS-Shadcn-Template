@@ -76,6 +76,14 @@ export const THEME_PRESET_OPTIONS = [
     },
   },
   {
+    label: "TikTok",
+    value: "tiktok",
+    primary: {
+      light: "oklch(0.6473 0.2381 17.7125)",
+      dark: "oklch(0.6473 0.2381 17.7125)",
+    },
+  },
+  {
     label: "VS Code",
     value: "vscode",
     primary: {

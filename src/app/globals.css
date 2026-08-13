@@ -12,6 +12,7 @@
 @import "../styles/presets/claude.css";
 @import "../styles/presets/supabase.css";
 @import "../styles/presets/vscode.css";
+@import "../styles/presets/tiktok.css";
 
 @custom-variant dark (&:is(.dark *));
 
