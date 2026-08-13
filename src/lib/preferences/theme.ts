@@ -76,6 +76,14 @@ export const THEME_PRESET_OPTIONS = [
     },
   },
   {
+    label: "VS Code",
+    value: "vscode",
+    primary: {
+      light: "oklch(0.5296 0.1506 255.1121)",
+      dark: "oklch(0.5296 0.1506 255.1121)",
+    },
+  },
+  {
     label: "Yellow",
     value: "yellow",
     primary: {
