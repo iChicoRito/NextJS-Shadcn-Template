@@ -9,6 +9,7 @@
 @import "../styles/presets/yellow.css";
 @import "../styles/presets/red.css";
 @import "../styles/presets/purple.css";
+@import "../styles/presets/claude.css";
 
 @custom-variant dark (&:is(.dark *));
 

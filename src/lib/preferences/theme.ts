@@ -20,6 +20,14 @@ export const THEME_PRESET_OPTIONS = [
     },
   },
   {
+    label: "Claude",
+    value: "claude",
+    primary: {
+      light: "oklch(0.6171 0.1375 39.0427)",
+      dark: "oklch(0.6724 0.1308 38.7559)",
+    },
+  },
+  {
     label: "Lime",
     value: "lime",
     primary: {
