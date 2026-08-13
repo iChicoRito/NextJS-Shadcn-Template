@@ -60,6 +60,14 @@ export const THEME_PRESET_OPTIONS = [
     },
   },
   {
+    label: "Supabase",
+    value: "supabase",
+    primary: {
+      light: "oklch(0.5568 0.1355 155.812)",
+      dark: "oklch(0.5568 0.1355 155.812)",
+    },
+  },
+  {
     label: "Teal",
     value: "teal",
     primary: {

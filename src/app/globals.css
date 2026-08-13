@@ -10,6 +10,7 @@
 @import "../styles/presets/red.css";
 @import "../styles/presets/purple.css";
 @import "../styles/presets/claude.css";
+@import "../styles/presets/supabase.css";
 
 @custom-variant dark (&:is(.dark *));
 
